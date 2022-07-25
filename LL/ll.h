@@ -11,8 +11,6 @@
 
 #ifndef __LL_H__
 #define __LL_H__
-#include <stdio.h>
-#include <stdlib.h>
 
 typedef struct ll_node {
     void *data;
